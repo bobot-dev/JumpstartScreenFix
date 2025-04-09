@@ -1,6 +1,7 @@
 {
-    "name": "JumpstartScreenFix",
-    "version_number": "1.0.0",
-    "website_url": "https://github.com/thunderstore-io",
-    "description": "This mod fixes some parts of the Jumpstart's screen not matching the Red Variation colour from your settings.",
+  "name": "JumpstartScreenFix",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/bobot-dev/JumpstartScreenFix",
+  "description": "This mod fixes some parts of the Jumpstart's screen not matching the Red Variation colour from your settings",
+  "dependencies": []
 }
